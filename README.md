@@ -1,2 +1,2 @@
-# Basics-of-programming-anguages
+# Basics-of-programming-languages
 Solving problems with Haskell/Prolog
